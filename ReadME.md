@@ -109,7 +109,8 @@ postgresql://duckuser:duckpass@postgres:5432/duckdb
 -------------------
 Dashboard snapshot:
 --------------------
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c15f68f8-39da-4607-9f37-13d6f1a55eb5" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/23b8a698-bfaa-4ef5-93ec-04341ac6c985" />
+
 
 
 
