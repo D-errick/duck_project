@@ -1,0 +1,7 @@
+# Core Data Processing (ETL)
+pandas 
+duckdb 
+openpyxl 
+
+# Database Connectivity (Postgres)
+psycopg2-binary
