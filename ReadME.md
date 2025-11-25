@@ -110,7 +110,7 @@ postgresql://duckuser:duckpass@postgres:5432/duckdb
 Dashboard snapshot:
 --------------------
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/23b8a698-bfaa-4ef5-93ec-04341ac6c985" />
-
+"C:\Users\Derrick Simi\Downloads\bidco-retail-insights-2025-11-25T19-59-00.998Z.jpg"
 
 
 
